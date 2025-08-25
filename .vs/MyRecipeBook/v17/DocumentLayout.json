@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EE4AC6-E939-4892-A791-847C1C748584}|src\\Backend\\MyRecipeBook.Application\\MyRecipeBook.Application.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\meulivrodereceitas\\src\\backend\\myrecipebook.application\\usecases\\user\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EE4AC6-E939-4892-A791-847C1C748584}|src\\Backend\\MyRecipeBook.Application\\MyRecipeBook.Application.csproj|solutionrelative:src\\backend\\myrecipebook.application\\usecases\\user\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5117F51E-B326-476B-8238-7690EF4396C7}|src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\meulivrodereceitas\\src\\shared\\myrecipebook.exceptions\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5117F51E-B326-476B-8238-7690EF4396C7}|src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj|solutionrelative:src\\shared\\myrecipebook.exceptions\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5117F51E-B326-476B-8238-7690EF4396C7}|src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\meulivrodereceitas\\src\\shared\\myrecipebook.exceptions\\exceptionsbase\\myrecipebookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5117F51E-B326-476B-8238-7690EF4396C7}|src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj|solutionrelative:src\\shared\\myrecipebook.exceptions\\exceptionsbase\\myrecipebookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyRecipeBookException.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Shared\\MyRecipeBook.Exceptions\\ExceptionsBase\\MyRecipeBookException.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\MyRecipeBook.Exceptions\\ExceptionsBase\\MyRecipeBookException.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Shared\\MyRecipeBook.Exceptions\\ExceptionsBase\\MyRecipeBookException.cs",
+              "RelativeToolTip": "src\\Shared\\MyRecipeBook.Exceptions\\ExceptionsBase\\MyRecipeBookException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:59:14.364Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Shared\\MyRecipeBook.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\MyRecipeBook.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Shared\\MyRecipeBook.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "src\\Shared\\MyRecipeBook.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T02:01:35.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserUseCase.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserUseCase.cs",
+              "RelativeToolTip": "src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserUseCase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:36:42.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

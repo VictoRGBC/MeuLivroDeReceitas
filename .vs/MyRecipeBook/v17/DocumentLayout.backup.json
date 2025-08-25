@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0642D365-1222-44CC-89EA-1C82B326733F}|src\\Backend\\MyRecipeBook.API\\MyRecipeBook.API.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\meulivrodereceitas\\src\\backend\\myrecipebook.api\\middleware\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0642D365-1222-44CC-89EA-1C82B326733F}|src\\Backend\\MyRecipeBook.API\\MyRecipeBook.API.csproj|solutionrelative:src\\backend\\myrecipebook.api\\middleware\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EE4AC6-E939-4892-A791-847C1C748584}|src\\Backend\\MyRecipeBook.Application\\MyRecipeBook.Application.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\meulivrodereceitas\\src\\backend\\myrecipebook.application\\usecases\\user\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EE4AC6-E939-4892-A791-847C1C748584}|src\\Backend\\MyRecipeBook.Application\\MyRecipeBook.Application.csproj|solutionrelative:src\\backend\\myrecipebook.application\\usecases\\user\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0642D365-1222-44CC-89EA-1C82B326733F}|src\\Backend\\MyRecipeBook.API\\MyRecipeBook.API.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\meulivrodereceitas\\src\\backend\\myrecipebook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0642D365-1222-44CC-89EA-1C82B326733F}|src\\Backend\\MyRecipeBook.API\\MyRecipeBook.API.csproj|solutionrelative:src\\backend\\myrecipebook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EE4AC6-E939-4892-A791-847C1C748584}|src\\Backend\\MyRecipeBook.Application\\MyRecipeBook.Application.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\meulivrodereceitas\\src\\backend\\myrecipebook.application\\usecases\\user\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EE4AC6-E939-4892-A791-847C1C748584}|src\\Backend\\MyRecipeBook.Application\\MyRecipeBook.Application.csproj|solutionrelative:src\\backend\\myrecipebook.application\\usecases\\user\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0642D365-1222-44CC-89EA-1C82B326733F}|src\\Backend\\MyRecipeBook.API\\MyRecipeBook.API.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\meulivrodereceitas\\src\\backend\\myrecipebook.api\\myrecipebook.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0642D365-1222-44CC-89EA-1C82B326733F}|src\\Backend\\MyRecipeBook.API\\MyRecipeBook.API.csproj|solutionrelative:src\\backend\\myrecipebook.api\\myrecipebook.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRecipeBook.API",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.API\\MyRecipeBook.API.csproj",
+              "RelativeDocumentMoniker": "src\\Backend\\MyRecipeBook.API\\MyRecipeBook.API.csproj",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.API\\MyRecipeBook.API.csproj",
+              "RelativeToolTip": "src\\Backend\\MyRecipeBook.API\\MyRecipeBook.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T01:44:49.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserValidator.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserValidator.cs",
+              "RelativeToolTip": "src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:42:35.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\MyRecipeBook.API\\Program.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.API\\Program.cs",
+              "RelativeToolTip": "src\\Backend\\MyRecipeBook.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:35:51.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CultureMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.API\\Middleware\\CultureMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\MyRecipeBook.API\\Middleware\\CultureMiddleware.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.API\\Middleware\\CultureMiddleware.cs",
+              "RelativeToolTip": "src\\Backend\\MyRecipeBook.API\\Middleware\\CultureMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:34:26.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserUseCase.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\MeuLivroDeReceitas\\src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserUseCase.cs",
+              "RelativeToolTip": "src\\Backend\\MyRecipeBook.Application\\UseCases\\User\\Register\\RegisterUserUseCase.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:36:42.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
