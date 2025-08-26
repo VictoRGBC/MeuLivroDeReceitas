@@ -2,7 +2,6 @@
 using MyRecipeBook.Communication.Requests;
 using MyRecipeBook.Communication.Responses;
 using MyRecipeBook.Exceptions.ExceptionsBase;
-using MyRecipeBook.Exceptions.ExceptionsBase
 using System.ComponentModel.DataAnnotations;
 
 namespace MyRecipeBook.Application.UseCases.User.Register
@@ -16,6 +15,13 @@ namespace MyRecipeBook.Application.UseCases.User.Register
             Validate(request);
 
             //Mapear a request para uma entidade
+
+            var user = new Domain.Entities.User
+            {
+                Name = request.Name,
+                Email = request.Email,
+                Password = request.Password
+            };
 
             //Criptografar a senha
 
